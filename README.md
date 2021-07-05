@@ -19,7 +19,9 @@ This project was made using the followings Technologies:
 ## 🎥 Video
 
 What now my video showing this pretty project🧡
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vZYb-EnAX6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vZYb-EnAX6s/0.jpg)](https://www.youtube.com/watch?v=vZYb-EnAX6s)
 
 ## 🪐 Running
 Para iniciá-lo, siga os passos abaixo:
