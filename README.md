@@ -35,12 +35,12 @@ App will be available on port: http://localhost:3000.
 
 ## 💻 Project
 
-MinhaVerba is a Prettier Money Balance App. Wallet Balance replaces your paper checkbook register 
+MinhaVerba is a Prettier Money Balance App. Wallet Balance replaces your paper checkbook register; and a great project to you improve your React skills.
 
 ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under MIT License.
 
 ---
 
-Feito com 💜 by Gabriel Fernandes 👋 [Participe da nossa comunidade](https://ahub.tech/discord)
+Made with 💜 by Gabriel Fernandes 👋 [Join our community!](https://ahub.tech/discord)
