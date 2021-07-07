@@ -21,7 +21,7 @@ This project was made using the followings Technologies:
 What now my video showing this pretty project🧡
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vZYb-EnAX6s/0.jpg)](https://www.youtube.com/watch?v=vZYb-EnAX6s)
+[![MinhaVerba_APP_Demo_Video](https://img.youtube.com/vi/vZYb-EnAX6s/0.jpg)](https://www.youtube.com/watch?v=vZYb-EnAX6s)
 
 ## 🪐 Running
 Para iniciá-lo, siga os passos abaixo:
